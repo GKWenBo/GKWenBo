@@ -6,7 +6,7 @@
 - ✍️ [HEXO](http://blogwenbo.com/)
 
 ### 🔑 Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=GKWenBo&count_private=true&show_icons=true&line_height=27&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GKWenBo&count_private=true&show_icons=true&line_height=27&icon_color=EFAD73&theme=dark"/>
 
 ### 🔨 My Repositories
 <a href="https://github.com/GKWenBo/WBCollectOCThirdLib">
