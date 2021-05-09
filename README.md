@@ -12,3 +12,7 @@
 <a href="https://github.com/GKWenBo/WBCollectOCThirdLib">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GKWenBo&repo=WBCollectOCThirdLib&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+<a href="https://github.com/GKWenBo/WBCollectSwfitThirdLib">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GKWenBo&repo=WBCollectSwfitThirdLib&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
