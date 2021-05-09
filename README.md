@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### ✍️Blog
+### ✍️ Blog & Writing
 - 📙 [简书](https://www.jianshu.com/u/63445e24e8bf)
 - 🌟 [掘金](https://juejin.cn/user/3755587450186296)
 - 🌐 [HEXO](http://blogwenbo.com/)
