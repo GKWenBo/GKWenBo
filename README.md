@@ -5,7 +5,7 @@
 - 🌟 [掘金](https://juejin.cn/user/3755587450186296)
 - 🌐 [HEXO](http://blogwenbo.com/)
 
-### Github Stats
+### 🔑 Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=GKWenBo&count_private=true&show_icons=true&theme=gruvbox"/>
 
 ### 🔨 My Repositories
