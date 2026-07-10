@@ -5,7 +5,10 @@
 - 🌟 [掘金](https://juejin.cn/user/3755587450186296)
 
 ### 🔑 Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=GKWenBo&count_private=true&show_icons=true&line_height=27&icon_color=EFAD73&theme=dark"/>
+[![GKWenBo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GKWenBo&count_private=true&show_icons=true&line_height=27&icon_color=EFAD73&theme=dark)](https://github.com/GKWenBo)
+
+### 💻 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GKWenBo&layout=compact&theme=dark)](https://github.com/GKWenBo)
 
 ### 🔨 My Repositories
 <a href="https://github.com/GKWenBo/WBCollectOCThirdLib">
