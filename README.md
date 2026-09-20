@@ -20,7 +20,7 @@
 
 - 🍎 iOS 开发者，日常主要写 **Objective-C / Swift**
 - 🧰 喜欢把常用能力沉淀成组件库，仓库里大多是可直接拿走用的轮子与 Demo
-- 🌱 业余在折腾 **SwiftUI / Flutter / Android / Python / IoT**，边学边写 Demo
+- 🌱 业余在折腾 **SwiftUI / Flutter / Android / Python / 小程序**，边学边写 Demo
 - 📍 坐标北京 · 写博客记录踩坑
 
 ### ✍️ 写点东西
@@ -48,19 +48,7 @@
 | [WBLoadingIndicatorView](https://github.com/GKWenBo/WBLoadingIndicatorView) | 一组加载等待动画 | ![](https://img.shields.io/github/stars/GKWenBo/WBLoadingIndicatorView?style=flat-square&labelColor=1c1c1c&color=2E86DE) | ![](https://img.shields.io/github/forks/GKWenBo/WBLoadingIndicatorView?style=flat-square&labelColor=1c1c1c&color=6C5CE7) |
 | [WBCategoryKit](https://github.com/GKWenBo/WBCategoryKit) | UIKit 常用分类与宏定义集合 | ![](https://img.shields.io/github/stars/GKWenBo/WBCategoryKit?style=flat-square&labelColor=1c1c1c&color=2E86DE) | ![](https://img.shields.io/github/forks/GKWenBo/WBCategoryKit?style=flat-square&labelColor=1c1c1c&color=6C5CE7) |
 
-### 🌱 最近在写
-
-| 项目 | 方向 | 最近提交 |
-| :--- | :--- | :--- |
-| [WBAudioPlayerKit](https://github.com/GKWenBo/WBAudioPlayerKit) | Swift · 音频播放 | ![](https://img.shields.io/github/last-commit/GKWenBo/WBAudioPlayerKit?style=flat-square&label=&color=00b894) |
-| [WBBlue](https://github.com/GKWenBo/WBBlue) | Swift · 蓝牙 | ![](https://img.shields.io/github/last-commit/GKWenBo/WBBlue?style=flat-square&label=&color=00b894) |
-| [WBAlgorithm](https://github.com/GKWenBo/WBAlgorithm) | Objective-C · 算法收集 | ![](https://img.shields.io/github/last-commit/GKWenBo/WBAlgorithm?style=flat-square&label=&color=00b894) |
-| [WBFlutter](https://github.com/GKWenBo/WBFlutter) | Dart · Flutter 学习工程 | ![](https://img.shields.io/github/last-commit/GKWenBo/WBFlutter?style=flat-square&label=&color=00b894) |
-| [WBAI](https://github.com/GKWenBo/WBAI) | Python · AI 学习资料汇总 | ![](https://img.shields.io/github/last-commit/GKWenBo/WBAI?style=flat-square&label=&color=00b894) |
-| [WBIoT](https://github.com/GKWenBo/WBIoT) | C++ · 嵌入式 / IoT | ![](https://img.shields.io/github/last-commit/GKWenBo/WBIoT?style=flat-square&label=&color=00b894) |
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:2E86DE&height=110&section=footer" alt="footer" />
 
 </div>
